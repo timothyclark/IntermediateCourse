@@ -1,0 +1,45 @@
+body img {
+	width: 800px;
+	max-width: 95%;
+	height: 95%;
+}
+body {
+	width: 1100;
+	max-width: 95%;
+
+
+
+
+
+
+
+
+
+	background: rgb
+:(215,215,255);
+	margin: auto;
+	color: rgba(21,18,19,1.00);
+}
+article {
+	float: left;
+	background-color: rgb(124,170,0);
+	padding: 1%;
+	margin: 1%;
+	width: 50%;
+}
+body artice h2 {
+}
+
+
+section {
+	padding-top: 10;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-bottom: 10;
+	background-color: rgb(255,215,215);
+	background-image: url(hot%20micro%20hachback.jpg);
+	color: rgb(247,247,14);
+}
+section h2 {
+	color: rgb(0.170.224);
+}

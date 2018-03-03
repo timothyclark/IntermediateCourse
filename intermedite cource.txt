@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>    
+<title>TC First website</title></head>
+<body>
+<header>
+  <h1>My Site.com</h1>
+  <h2>Were you can learn cool stuf about TC</h2>
+</header>
+<section>
+<h2>This is my first web site.</h2>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley </P>
+</section>
+<article>
+<h3>My Interests</h3>
+<p>Lorem Ipsum is simply dummy text</P>
+</article>
+<article>
+<h3>My Hobbies</h3>
+<ul>
+<li>Motor racing</li>
+<li>Motor Vehicels</li>
+<li>exercise</li>
+
+</ul>
+</article>
+<article>
+<h3>contact TC</h3>
+<p>083 225 0757</p>
+<p>timothyclark.white4@gmail.com</p>
+
+</article>
+<footer><p>https://www.google.co.za/search?q=jps+f1+1972+car&oq=jps+f1+1972+car&aqs=chrome..69i57.34133j0j8&sourceid=chrome&ie=UTF-8#</p>
+<p>next</p></footer>
+</body>
+<html>
