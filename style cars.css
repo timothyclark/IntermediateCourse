@@ -1,0 +1,29 @@
+﻿body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute
+}
+p{text-align: center}
+h1{color: rgb(91, 41, 209)}
+#heading1{text-align: center}
+.heading{
+    color: red;}
+  
+.nav{
+    position: fixed;
+    background-color: aqua;
+    width: 50%;
+    border:5px 5px 5px 5px
+    border-style:solid;
+}
+.nav_link{
+    float: left;
+    padding: 5px 10px 5px 10px
+}
+.text_area{
+    border-color:rgb(41, 17, 17);
+    border-style: solid;
+}
+.page_image{
+    max-height: 10%;
+    max-width: 10%;
+}
